@@ -1,0 +1,17 @@
+{
+  "format_version": "1.8.0",
+  "animations": {
+    "animation.chest_minecart_offset": {
+      "loop": true,
+      "bones": {
+        "ghost_blocks": {
+          "position": [
+            0,
+            "0.35*16",
+            0
+          ]
+        }
+      }
+    }
+  }
+}
